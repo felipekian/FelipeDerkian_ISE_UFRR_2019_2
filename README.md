@@ -1,2 +1,4 @@
 # FelipeDerkian_ISE_UFRR_2019_2
-Lista 2_ISE
+
+
+Segunda lista de Introdução aos Sistemas Embarcados
